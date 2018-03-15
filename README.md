@@ -1,4 +1,4 @@
-# react-server-views-typescript-example
+# example-react-server-views-typescript
 Finished code for the blog post "Strongly-Typed, Server-Rendered Views with React and TypeScript".
 
 ## Setup
