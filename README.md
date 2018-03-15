@@ -12,7 +12,7 @@ Note that IDEs such as Visual Studio Code and WebStorm will perform certain step
 
 ### Windows Issues
 
-Note that Windows users may have trouble running the TypeScript compiler from the command line, unless they choose to install TypeScript globally on their system. In my experience, the default build task that Visual Studio Code produces for TypeScript Node.js projects will do the trick. If you use Visual Studio Code on Windows, use the keyboard shortcut `ctrl-shift-b` and hit `enter`, or run the task through the appropriate menu option.
+Note that Windows users may have trouble running the TypeScript compiler from the command line, unless they choose to install TypeScript globally on their system. In my experience, the default build task that Visual Studio Code produces for TypeScript Node.js projects will do the trick. If you use Visual Studio Code on Windows, use the keyboard shortcut `ctrl-shift-b` and hit `enter`, or run the task through the appropriate menu option. WebStorm will also work, but make sure to remove the `"esModuleInterop": true` property from the `tsconfig.json` if present due to a limitation in WebStorm.
 
 ## Help
 
