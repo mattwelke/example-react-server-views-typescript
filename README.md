@@ -10,6 +10,10 @@ Finished code for the blog post "Strongly-Typed, Server-Rendered Views with Reac
 
 Note that IDEs such as Visual Studio Code and WebStorm will perform certain steps that will make some of the above steps unneccessary. When in doubt, consult the documentation for your tools.
 
+### Windows Issues
+
+Note that Windows users may have trouble running the TypeScript compiler from the command line, unless they choose to install TypeScript globally on their system. In my experience, the default build task that Visual Studio Code produces for TypeScript Node.js projects will do the trick. If you use Visual Studio Code on Windows, use the keyboard shortcut `ctrl-shift-b` and hit `enter`, or run the task through the appropriate menu option.
+
 ## Help
 
 Any issues running it? Open an issue!
