@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-export default class Shell extends React.Component {
+export class Shell extends React.Component {
     render() {
         return <html>
             <head>

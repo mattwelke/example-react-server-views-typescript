@@ -2,10 +2,10 @@ import * as express from 'express';
 import * as React from 'react';
 import * as ReactDOMServer from 'react-dom/server';
 
-import Home from './views/Home';
-import Nav from './views/Nav';
+import { Home } from './views/Home';
+import { Nav } from './views/Nav';
 import { renderReactView } from './utils';
-import Shell from './views/Shell';
+import { Shell } from './views/Shell';
 
 const app = express();
 

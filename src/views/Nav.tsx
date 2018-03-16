@@ -4,7 +4,7 @@ interface Props {
     activeRoute: string;
 }
 
-export default class Nav extends React.Component<Props> {
+export class Nav extends React.Component<Props> {
     render() {
         const msg = ' <- You are here! :)';
 
