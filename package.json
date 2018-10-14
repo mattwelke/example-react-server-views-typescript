@@ -4,7 +4,7 @@
   "main": "dist/index.js",
   "license": "Unlicense",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.16.4",
     "react": "^16.4.2",
     "react-dom": "^16.5.2"
   },
