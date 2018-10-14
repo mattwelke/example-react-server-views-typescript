@@ -4,7 +4,7 @@ Finished code for the [Strongly-Typed, Server-Rendered Views with React and Type
 
 ## Setup
 
-1. Make sure you've got Node.js installed on your machine. [nvm](https://github.com/creationix/nvm) is a great way to do that.
+1. Make sure you've got Node.js installed on your machine. [n](https://github.com/tj/n) is a great way to do that.
 1. In the project directory, run `yarn` or `npm install`.
 1. In the project directory, run `./node_modules/typescript/bin/tsc` to compile the app.
 1. In the project directory, run `node dist/main.js` to run the app.
