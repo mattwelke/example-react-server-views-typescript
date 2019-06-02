@@ -1,6 +1,6 @@
 # example-react-server-views-typescript
 
-Finished code for the [Strongly-Typed, Server-Rendered Views with React and TypeScript](https://blog.mattwelke.com/use-typescript-and-react-for-compile-time/) blog post.
+Finished code for the [Strongly-Typed, Server-Rendered Views with React and TypeScript](https://mattwelke.com/2018/03/11/strongly-typed-server-rendered-views-with-react-and-typescript.html) blog post.
 
 ## Setup
 
